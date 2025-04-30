@@ -1,6 +1,6 @@
 **End to end data engineer Project** 
 
-Note:- Refer Document files in each folder for flow of this projects also refer all pyspark Notebook for Stage to Load and Load to DW layer data trasformation
+**Note:-** Refer Document files in each folder for flow of this projects also refer all pyspark Notebook for Stage to Load and Load to DW layer data trasformation
 
 Folder 1:- End to End Data Engineering project using blob storage
 
